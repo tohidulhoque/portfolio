@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>My Portfolio</title>
+        <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
     </head>
     <body>
         @include('partials.header') <!-- Include the header -->
