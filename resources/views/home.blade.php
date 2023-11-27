@@ -3,7 +3,7 @@
 
 @section('content')
    <div class="container">
-    <h1>Md. Tohidul Hoque</h1>
+    <h1 class="display-4">Md. Tohidul Hoque</h1>
     <p>Welcome to my portfolio!</p>
     <p class="lead">
         Hi, I'm Md. Tohidul Hoque, a passionate Laravel web developer with 2+ years of experience creating robust and efficient web applications.
